@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akash07-e/DSA_/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akash07-e/DSA_/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akash07-e/DSA_/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akash07-e/DSA_/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
