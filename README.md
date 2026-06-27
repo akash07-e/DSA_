@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
