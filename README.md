@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/akash07-e/DSA_/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
