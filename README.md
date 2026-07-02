@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/akash07-e/DSA_/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |
