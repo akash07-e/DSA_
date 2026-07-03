@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/akash07-e/DSA_/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
