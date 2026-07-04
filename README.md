@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/akash07-e/DSA_/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
