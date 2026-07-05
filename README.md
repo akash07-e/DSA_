@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akash07-e/DSA_/tree/master/0009-palindrome-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
