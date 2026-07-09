@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akash07-e/DSA_/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/akash07-e/DSA_/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/akash07-e/DSA_/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
