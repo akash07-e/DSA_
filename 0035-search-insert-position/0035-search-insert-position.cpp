@@ -13,15 +13,6 @@ public:
             else
                 right = mid - 1;
         }
-        nums.push_back(target);
-        int a=0;
-        sort(nums.begin(), nums.end());
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] == target) {
-             a = i;
-                break;
-            }
-        }
-        return a;
+       return left;
     }
 };
