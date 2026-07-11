@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash07-e/DSA_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash07-e/DSA_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/akash07-e/DSA_/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
 |  |
