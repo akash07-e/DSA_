@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akash07-e/DSA_/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akash07-e/DSA_/tree/master/0074-search-a-2d-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
