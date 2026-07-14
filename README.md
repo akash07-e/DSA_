@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akash07-e/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/akash07-e/DSA_/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/akash07-e/DSA_/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
