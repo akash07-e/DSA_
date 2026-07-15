@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akash07-e/DSA_/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/akash07-e/DSA_/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/akash07-e/DSA_/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/akash07-e/DSA_/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/akash07-e/DSA_/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/akash07-e/DSA_/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/akash07-e/DSA_/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/akash07-e/DSA_/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
