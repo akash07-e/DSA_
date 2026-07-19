@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akash07-e/DSA_/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/akash07-e/DSA_/tree/master/0238-product-of-array-except-self) |
+| [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/akash07-e/DSA_/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/akash07-e/DSA_/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/akash07-e/DSA_/tree/master/0735-asteroid-collision) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/akash07-e/DSA_/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Recursion
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/akash07-e/DSA_/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
