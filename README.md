@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash07-e/DSA_/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash07-e/DSA_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/akash07-e/DSA_/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Matrix
@@ -247,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akash07-e/DSA_/tree/master/0860-lemonade-change) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akash07-e/DSA_/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
