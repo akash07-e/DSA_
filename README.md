@@ -256,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akash07-e/DSA_/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/akash07-e/DSA_/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
