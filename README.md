@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/akash07-e/DSA_/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/akash07-e/DSA_/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Recursion
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akash07-e/DSA_/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akash07-e/DSA_/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
