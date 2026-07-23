@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/akash07-e/DSA_/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash07-e/DSA_/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash07-e/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/akash07-e/DSA_/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/akash07-e/DSA_/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/akash07-e/DSA_/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/akash07-e/DSA_/tree/master/0181-employees-earning-more-than-their-managers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
