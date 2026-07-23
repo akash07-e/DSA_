@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& num, int target) {
-        int n=num.size();
-        int left=0;
-        int right=n-1;//there i used the two pointer for optimal solution due to sorted array 
-        while(left<=right){
-            int sum=num[left]+num[right];
-            if(sum==target) return {left+1,right+1};
-            else if(sum>target)  right--;
-            else left++;
+        unordered_map<int,int>mp;
+        for(int i=0;i<num.size();i++){
+            int needed=target-num[i];
+            if(mp.find(needed)!=mp.end()){
+                return {mp[needed],i+1};
+            }
+            mp[num[i]]=i+1;
         }
-        return {};
+        return {-1,-1};
     }
 };
