@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash07-e/DSA_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash07-e/DSA_/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/akash07-e/DSA_/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/akash07-e/DSA_/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akash07-e/DSA_/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akash07-e/DSA_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/akash07-e/DSA_/tree/master/0162-find-peak-element) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akash07-e/DSA_/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
