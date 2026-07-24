@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash07-e/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/akash07-e/DSA_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/akash07-e/DSA_/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akash07-e/DSA_/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash07-e/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/akash07-e/DSA_/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/akash07-e/DSA_/tree/master/0560-subarray-sum-equals-k) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/akash07-e/DSA_/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/akash07-e/DSA_/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/akash07-e/DSA_/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/akash07-e/DSA_/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/akash07-e/DSA_/tree/master/0945-minimum-increment-to-make-array-unique) |
