@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash07-e/DSA_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash07-e/DSA_/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Backtracking
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/akash07-e/DSA_/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0746-min-cost-climbing-stairs) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash07-e/DSA_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Linked List
 |  |
 | ------- |
