@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
+| [2413-smallest-even-multiple](https://github.com/akash07-e/DSA_/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akash07-e/DSA_/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/akash07-e/DSA_/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
