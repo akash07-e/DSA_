@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akash07-e/DSA_/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akash07-e/DSA_/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/akash07-e/DSA_/tree/master/2653-sliding-subarray-beauty) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akash07-e/DSA_/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/akash07-e/DSA_/tree/master/2413-smallest-even-multiple) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akash07-e/DSA_/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/akash07-e/DSA_/tree/master/2413-smallest-even-multiple) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akash07-e/DSA_/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
