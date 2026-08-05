@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akash07-e/DSA_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akash07-e/DSA_/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akash07-e/DSA_/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/akash07-e/DSA_/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/akash07-e/DSA_/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akash07-e/DSA_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/akash07-e/DSA_/tree/master/0162-find-peak-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akash07-e/DSA_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akash07-e/DSA_/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akash07-e/DSA_/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/akash07-e/DSA_/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akash07-e/DSA_/tree/master/0213-house-robber-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/akash07-e/DSA_/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/akash07-e/DSA_/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
