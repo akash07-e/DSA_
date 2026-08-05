@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/akash07-e/DSA_/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/akash07-e/DSA_/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash07-e/DSA_/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/akash07-e/DSA_/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/akash07-e/DSA_/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akash07-e/DSA_/tree/master/0875-koko-eating-bananas) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/akash07-e/DSA_/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/akash07-e/DSA_/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/akash07-e/DSA_/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0746-min-cost-climbing-stairs) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash07-e/DSA_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Linked List
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/akash07-e/DSA_/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/akash07-e/DSA_/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/akash07-e/DSA_/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash07-e/DSA_/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
