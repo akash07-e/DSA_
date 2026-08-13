@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akash07-e/DSA_/tree/master/0424-longest-repeating-character-replacement) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash07-e/DSA_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/akash07-e/DSA_/tree/master/1796-second-largest-digit-in-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash07-e/DSA_/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Backtracking
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/akash07-e/DSA_/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash07-e/DSA_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/akash07-e/DSA_/tree/master/1796-second-largest-digit-in-a-string) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/akash07-e/DSA_/tree/master/2653-sliding-subarray-beauty) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/akash07-e/DSA_/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
