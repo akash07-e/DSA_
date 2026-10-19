@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/akash07-e/DSA_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/akash07-e/DSA_/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/akash07-e/DSA_/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/akash07-e/DSA_/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash07-e/DSA_/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/akash07-e/DSA_/tree/master/0213-house-robber-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akash07-e/DSA_/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akash07-e/DSA_/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash07-e/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/akash07-e/DSA_/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/akash07-e/DSA_/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akash07-e/DSA_/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash07-e/DSA_/tree/master/0344-reverse-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akash07-e/DSA_/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/akash07-e/DSA_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akash07-e/DSA_/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/akash07-e/DSA_/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/akash07-e/DSA_/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash07-e/DSA_/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/akash07-e/DSA_/tree/master/2413-smallest-even-multiple) |
