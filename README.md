@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash07-e/DSA_/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash07-e/DSA_/tree/master/1552-magnetic-force-between-two-balls) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akash07-e/DSA_/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1920-build-array-from-permutation](https://github.com/akash07-e/DSA_/tree/master/1920-build-array-from-permutation) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/akash07-e/DSA_/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/akash07-e/DSA_/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/akash07-e/DSA_/tree/master/2653-sliding-subarray-beauty) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/akash07-e/DSA_/tree/master/0735-asteroid-collision) |
+| [1920-build-array-from-permutation](https://github.com/akash07-e/DSA_/tree/master/1920-build-array-from-permutation) |
 ## Greedy
 |  |
 | ------- |
